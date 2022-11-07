@@ -1,4 +1,4 @@
-# Praktikum 4
+# Latihan 4
 # Lab 1 
 ## Tugas 1 
 - Buat program sederhada dengan input 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut
